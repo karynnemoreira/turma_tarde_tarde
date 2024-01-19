@@ -19,7 +19,7 @@ mudarHeader()
 let primeiroTitulo = document.querySelector("h1")
 
 function acao(){
-primeiroTitulo.style.transition = "2s"
+primeiroTitulo.style.transition = "10s"
 primeiroTitulo.style.transform = "rotate(360deg)"
 }
 
